@@ -1,2 +1,2 @@
 # flux-multi-stage
-flux-multi-stage test
+flux-multi-stage test docs
